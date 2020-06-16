@@ -3,6 +3,7 @@
 import subprocess as sp
 import os
 
+# Enter Target IP Address
 target = raw_input("Enter Target: ")
 
 os.putenv("TARGET", target)
