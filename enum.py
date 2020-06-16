@@ -4,7 +4,6 @@ import subprocess as sp
 import os
 
 target = raw_input("Enter Target: ")
-export = "export TARGET=" + target
 
 os.putenv("TARGET", target)
 
