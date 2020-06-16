@@ -2,3 +2,5 @@
 Wrote this script for automation of intial enumeration on web application boxes. 
 
 Enter Target: "IP Address Here"
+
+Add to $PATH for best results
